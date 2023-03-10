@@ -4,7 +4,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarbek-ismatov&show_icons=true&theme=transparent)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjarbek-ismatov)](https://git.io/streak-stats)
 
 
 <br /> <br />
