@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjarbek-ismatov
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in CS and OS development
+- 🌱 I’m currently learning C
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarbek-ismatov&show_icons=true&theme=transparent)
