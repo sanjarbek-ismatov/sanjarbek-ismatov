@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjarbek-ismatov
-- 👀 I’m interested in CS and OS development, Desktop application development (QT), Linux (Fedora BTW)
-- 🌱 I’m currently learning C/C++, QT6
+- 👀 I’m interested in CS and OS development, Linux
+- 🌱 I’m currently learning C, Rust
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjarbek-ismatov&show_icons=true&theme=transparent)
